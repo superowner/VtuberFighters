@@ -1,6 +1,8 @@
-# VtuberFighters (β)
+# Vtuber Fighters (β)
 
 Vtuberが集う格ゲー
+
+![格ゲー](https://github.com/omegasisters/VtuberFighters/blob/master/images/thumb.png)
 
 ## 現在参戦中のキャラクター
 ### おめがシスターズ [[YouTube](https://www.youtube.com/channel/UCNjTjd2-PMC8Oo_-dCEss7A)]
@@ -9,13 +11,14 @@ Vtuberが集う格ゲー
 * おめがレリオ
 
 ## Vtuber Fightersの使用用途
-動画撮影やスクショなどSNS、動画サービスに投稿OK！
+**動画撮影やスクショなどを、SNSやYouTubeなどに投稿OK!**
 * 無料ゲーム
 * 広告つき動画やイベントなどでの利用等はOKですが、基本的に商用利用禁止
 * ゲームの二次配布禁止
 * ゲームのキャラクターのイメージを著しく損ねる扱い方は禁止
 
 ## Vtuber Figetersに参戦してくれるVtuberさんへ
+
 ### 3Dモデルについて
 * FBX形式(Unityで動作するHumanoidモデル)、またはVRMモデルでも問題ありません。
 * FBXの場合、揺れものなどの設定が行えない場合があります。
