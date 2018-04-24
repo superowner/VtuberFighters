@@ -34,6 +34,8 @@ Vtuberが集う格ゲー
 
 omesisters@gmail.com
 
+https://twitter.com/omesis_ray
+
 ## Credits
 ////////////////////////////////////////////////////////////////
 
